@@ -27,7 +27,7 @@ List of podcasts that discuss your digtal well-being
 
 ## Apps 🔥
 
-- [Google Digital Wellbeing](https://wellbeing.google/)'
+- [Google Digital Wellbeing](https://wellbeing.google/)
 
 ## Organizations 🏢
 
