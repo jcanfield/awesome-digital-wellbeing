@@ -19,7 +19,7 @@ per day, my mental health was better. I just felt generally better about everyth
 List of podcasts that discuss your digtal well-being
 
 - [Offline with Jon Favreau](https://crooked.com/podcast-series/offline/)
-- [Lof Off Podcast](https://www.logoffmovement.org/podcast)
+- [Log Off Podcast](https://www.logoffmovement.org/podcast)
 
 
 ## Books 📚
@@ -33,7 +33,7 @@ List of podcasts that discuss your digtal well-being
 ## Articles 📝
 
 - [Google Ditital Wellbeing](https://wellbeing.google/)
-- [How to use Goog'e Digital Wellbeing App](https://www.makeuseof.com/use-or-disable-digital-wellbeing-android/)
+- [How to use Google's Digital Wellbeing App](https://www.makeuseof.com/use-or-disable-digital-wellbeing-android/)
 
 ## Organizations 🏢
 
