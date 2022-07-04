@@ -7,12 +7,13 @@ per day, my mental health was better. I just felt generally better about everyth
 
 ## Contents
 
-- [Podcasts](#podcasts)
-- [Books](#books)
-- [Apps](#apps)
+- [Podcasts](#podcasts) 🎧
+- [Books](#books) 📚
+- [Apps](#apps) 🔥
+- [Organizations(#origanizations)] 🏢
 
 
-## Podcasts
+## Podcasts 🎧
 
 List of podcasts that discuss your digtal well-being
 
@@ -20,15 +21,15 @@ List of podcasts that discuss your digtal well-being
 - [Lof Off Podcast](https://www.logoffmovement.org/podcast)
 
 
-## Books
+## Books 📚
 
 - [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
 
-## Apps
+## Apps 🔥
 
 - [Google Digital Wellbeing](https://wellbeing.google/)'
 
-## Organizations
+## Organizations 🏢
 
 - [Log Off Movement](https://www.logoffmovement.org/)
 
