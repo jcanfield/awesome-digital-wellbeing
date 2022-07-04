@@ -10,6 +10,7 @@ per day, my mental health was better. I just felt generally better about everyth
 - [Podcasts](#podcasts) 🎧
 - [Books](#books) 📚
 - [Apps](#apps) 🔥
+- [Articles](#articles) 📝
 - [Organizations](#origanizations) 🏢
 
 
@@ -27,7 +28,12 @@ List of podcasts that discuss your digtal well-being
 
 ## Apps 🔥
 
-- [Google Digital Wellbeing](https://wellbeing.google/)
+- [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) 📱
+
+## Articles 📝
+
+- [Google Ditital Wellbeing](https://wellbeing.google/)
+- [How to use Goog'e Digital Wellbeing App](https://www.makeuseof.com/use-or-disable-digital-wellbeing-android/)
 
 ## Organizations 🏢
 
