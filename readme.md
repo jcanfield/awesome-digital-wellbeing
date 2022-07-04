@@ -1,30 +1,38 @@
 # Awesome Digital Well-being [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A group of resources to help you offline after much time online
+> A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front a screen. Over the last
+couple years, I realized that I needed to take a step back. I can be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
+per day, my mental health was better. I just felt generally better about everything. Here are some tools that can help you move that direction.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Podcasts](#podcasts)
+- [Books](#books)
+- [Apps](#apps)
 
 
-## Section
+## Podcasts
 
-About this section. Optional. Keep this short and focus on the list.
+List of podcasts that discuss your digtal well-being
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Offline with Jon Favreau](https://crooked.com/podcast-series/offline/)
+- [Lof Off Podcast](https://www.logoffmovement.org/podcast)
 
 
-## Another Section
+## Books
 
-### Subsection
+- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Apps
+
+- [Google Digital Wellbeing](https://wellbeing.google/)'
+
+## Organizations
+
+- [Log Off Movement](https://www.logoffmovement.org/)
 
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Please feel free to to add here. What helps you go offline or unwind in this digital world? Read the [contribution guidelines](contributing.md) first.
