@@ -26,10 +26,10 @@ List of podcasts that discuss your digtal well-being
 - [Offline with Jon Favreau](https://crooked.com/podcast-series/offline/)
 - [Log Off Podcast](https://www.logoffmovement.org/podcast)
 
-
 ## Books 📚
 
-- [Dopamine Nation: Finding Balance in the Age of Indulgence](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+- [Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
+- [The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World by Max Fisher](https://www.amazon.com/Chaos-Machine-Inside-Social-Rewired/dp/031670332X)
 
 ## Apps 🔥
 
