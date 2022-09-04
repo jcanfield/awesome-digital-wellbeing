@@ -16,30 +16,30 @@ per day, my mental health was better. I just felt generally better about everyth
 2. [Books](#books) 📚
 3. [Apps](#apps) 🔥
 4. [Articles](#articles) 📝
-5. [Organizations](#origanizations) 🏢
+5. [Organizations](#orgs) 🏢
 
-## Podcasts 🎧
+## [Podcasts](#podcasts) 🎧
 
 List of podcasts that discuss your digtal well-being
 
 - [Offline with Jon Favreau](https://crooked.com/podcast-series/offline/)
 - [Log Off Podcast](https://www.logoffmovement.org/podcast)
 
-## Books 📚
+## [Books](#books) 📚
 
 - [Dopamine Nation: Finding Balance in the Age of Indulgence by Anna Lembke](https://www.amazon.com/Dopamine-Nation-Finding-Balance-Indulgence/dp/152474672X)
 - [The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World by Max Fisher](https://www.amazon.com/Chaos-Machine-Inside-Social-Rewired/dp/031670332X)
 
-## Apps 🔥
+## [Apps](#apps) 🔥
 
 - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) 📱
 
-## Articles 📝
+## [Articles](#articles) 📝
 
 - [Google Ditital Wellbeing](https://wellbeing.google/)
 - [How to use Google's Digital Wellbeing App](https://www.makeuseof.com/use-or-disable-digital-wellbeing-android/)
 
-## Organizations 🏢
+## [Organizations](#orgs)🏢
 
 - [Log Off Movement](https://www.logoffmovement.org/)
 
