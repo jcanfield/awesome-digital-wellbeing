@@ -12,12 +12,11 @@ per day, my mental health was better. I just felt generally better about everyth
 
 ## Contents
 
-- [Podcasts](#podcasts) 🎧
-- [Books](#books) 📚
-- [Apps](#apps) 🔥
-- [Articles](#articles) 📝
-- [Organizations](#origanizations) 🏢
-
+1. [Podcasts](#podcasts) 🎧
+2. [Books](#books) 📚
+3. [Apps](#apps) 🔥
+4. [Articles](#articles) 📝
+5. [Organizations](#origanizations) 🏢
 
 ## Podcasts 🎧
 
