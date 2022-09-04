@@ -9,15 +9,6 @@
 couple years, I realized that I needed to take a step back. I can be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
 per day, my mental health was better. I just felt generally better about everything. Here are some tools that can help you move that direction.
 
-
-## Contents
-
-1. [Podcasts](#podcasts) 🎧
-2. [Books](#books) 📚
-3. [Apps](#apps) 🔥
-4. [Articles](#articles) 📝
-5. [Organizations](#orgs) 🏢
-
 ## [Podcasts](#podcasts) 🎧
 
 List of podcasts that discuss your digtal well-being
