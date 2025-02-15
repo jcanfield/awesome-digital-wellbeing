@@ -9,7 +9,7 @@
 couple years, I realized that I needed to take a step back. I can be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
 per day, my mental health was better. I just felt generally better about everything. Here are some tools that can help you move that direction.
 
-## [Podcasts](#podcasts) 🎧
+## [Offline with Jon Favreu](#offline) 🎧
 
 List of podcasts that discuss your digital well-being
 
@@ -34,6 +34,8 @@ List of podcasts that discuss your digital well-being
   18. [The Impact of Digital Addiction on Society](https://crooked.com/podcast-series/offline/)
   19. [The Intersection of Technology and Mental Health](https://crooked.com/podcast-series/offline/)
   20. [The Future of Digital Wellness](https://crooked.com/podcast-series/offline/)
+
+## [Podcasts](#podcasts) 🎧
 
 - [Log Off Podcast](https://www.logoffmovement.org/podcast)
 - [The Daily by The New York Times](https://www.nytimes.com/column/the-daily)
