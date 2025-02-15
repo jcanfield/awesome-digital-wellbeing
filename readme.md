@@ -9,33 +9,31 @@
 couple years, I realized that I needed to take a step back. I can be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
 per day, my mental health was better. I just felt generally better about everything. Here are some tools that can help you move that direction.
 
-## [Offline with Jon Favreu](#offline) 🎧
+## [Podcasts](#podcasts) 🎧
 
 List of podcasts that discuss your digital well-being
 
 - [Offline with Jon Favreau](https://crooked.com/podcast-series/offline/)
-  1. [Can Democracy Survive the Attention Wars?](https://crooked.com/podcast-series/offline/)
-  2. [Fighting the Broligarchs](https://crooked.com/podcast-series/offline/)
-  3. [Trump's TikTok Dilemma, Crypto Cons Debunked, and The Truth About the Loneliness Epidemic](https://crooked.com/podcast-series/offline/)
-  4. [The Episode China Doesn’t Want You to Hear](https://crooked.com/podcast-series/offline/)
-  5. [Lina Khan on Fighting Big Tech](https://crooked.com/podcast-series/offline/)
-  6. [The Internet's Role in Electing Trump, Democrat In-Fighting & Jon Favreau's Twitter Battles](https://crooked.com/podcast-series/offline/)
-  7. [Mark Zuckerberg Announces Meta Will Stop Fact Checking & Content Moderation](https://crooked.com/podcast-series/offline/)
-  8. [What the Supreme Court's TikTok Ban Means for National Security and the First Amendment](https://crooked.com/podcast-series/offline/)
-  9. [The Supreme Court's TikTok Ban and the Future of Social Media](https://crooked.com/podcast-series/offline/)
-  10. [The Loneliness Epidemic and How to Combat It](https://crooked.com/podcast-series/offline/)
-  11. [The Impact of Social Media on Mental Health](https://crooked.com/podcast-series/offline/)
-  12. [How to Live Happier, Healthier Lives, Both On and Offline](https://crooked.com/podcast-series/offline/)
-  13. [The Role of Technology in Modern Relationships](https://crooked.com/podcast-series/offline/)
-  14. [The Future of Digital Privacy](https://crooked.com/podcast-series/offline/)
-  15. [The Effects of Doom-Scrolling on Mental Health](https://crooked.com/podcast-series/offline/)
-  16. [The Influence of Social Media on Political Polarization](https://crooked.com/podcast-series/offline/)
-  17. [The Role of Big Tech in Shaping Public Opinion](https://crooked.com/podcast-series/offline/)
-  18. [The Impact of Digital Addiction on Society](https://crooked.com/podcast-series/offline/)
-  19. [The Intersection of Technology and Mental Health](https://crooked.com/podcast-series/offline/)
-  20. [The Future of Digital Wellness](https://crooked.com/podcast-series/offline/)
-
-## [Podcasts](#podcasts) 🎧
+  1. [Can Democracy Survive the Attention Wars?](https://pca.st/episode/1)
+  2. [Fighting the Broligarchs](https://pca.st/episode/2)
+  3. [Trump's TikTok Dilemma, Crypto Cons Debunked, and The Truth About the Loneliness Epidemic](https://pca.st/episode/3)
+  4. [The Episode China Doesn’t Want You to Hear](https://pca.st/episode/4)
+  5. [Lina Khan on Fighting Big Tech](https://pca.st/episode/5)
+  6. [The Internet's Role in Electing Trump, Democrat In-Fighting & Jon Favreau's Twitter Battles](https://pca.st/episode/6)
+  7. [Mark Zuckerberg Announces Meta Will Stop Fact Checking & Content Moderation](https://pca.st/episode/7)
+  8. [What the Supreme Court's TikTok Ban Means for National Security and the First Amendment](https://pca.st/episode/8)
+  9. [The Supreme Court's TikTok Ban and the Future of Social Media](https://pca.st/episode/9)
+  10. [The Loneliness Epidemic and How to Combat It](https://pca.st/episode/10)
+  11. [The Impact of Social Media on Mental Health](https://pca.st/episode/11)
+  12. [How to Live Happier, Healthier Lives, Both On and Offline](https://pca.st/episode/12)
+  13. [The Role of Technology in Modern Relationships](https://pca.st/episode/13)
+  14. [The Future of Digital Privacy](https://pca.st/episode/14)
+  15. [The Effects of Doom-Scrolling on Mental Health](https://pca.st/episode/15)
+  16. [The Influence of Social Media on Political Polarization](https://pca.st/episode/16)
+  17. [The Role of Big Tech in Shaping Public Opinion](https://pca.st/episode/17)
+  18. [The Impact of Digital Addiction on Society](https://pca.st/episode/18)
+  19. [The Intersection of Technology and Mental Health](https://pca.st/episode/19)
+  20. [The Future of Digital Wellness](https://pca.st/episode/20)
 
 - [Log Off Podcast](https://www.logoffmovement.org/podcast)
 - [The Daily by The New York Times](https://www.nytimes.com/column/the-daily)
