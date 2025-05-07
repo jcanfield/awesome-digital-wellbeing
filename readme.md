@@ -38,3 +38,11 @@ List of podcasts that discuss your digtal well-being
 ## Contribute
 
 Please feel free to to add here. What helps you go offline or unwind in this digital world? Read the [contribution guidelines](contributing.md) first.
+
+## Other Notes
+
+"This project was tested with BrowserStack"
+
+## Open Source
+
+See the LICENSE file for more information.
