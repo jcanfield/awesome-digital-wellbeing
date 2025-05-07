@@ -41,7 +41,7 @@ Please feel free to to add here. What helps you go offline or unwind in this dig
 
 ## Other Notes
 
-"This project was tested with BrowserStack"
+This project is tested with BrowserStack
 
 ## Open Source
 
