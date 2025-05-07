@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/awesome-digital-wellbeing/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/awesome-digital-wellbeing/network)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/joshuacanfield-portfolio/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/awesome-digital-wellbeing/commits/master)
 [![version](https://img.shields.io/static/v1?label=Version&message=2022&color=blue)](https://github.com/jcanfield)
 
 > A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front a screen. Over the last
