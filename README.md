@@ -76,6 +76,7 @@ List of podcasts that discuss your digital well-being
 - [Stoicism and Digital Minimalism](https://dailystoic.com/cal-newport-interview/)
 
 ## [Videos](#videos) 📽️
+- [Offline with Jon Favreau](https://www.youtube.com/@OfflinewithJonFavreau)
 - [Indistractable: How to Control Your Attention](https://www.youtube.com/watch?v=WtLIJwObk2M)
 - [Tristan Harris: The Dangers of Unregulated AI -- Daily Show](https://www.youtube.com/watch?v=675d_6WGPbo)
 
