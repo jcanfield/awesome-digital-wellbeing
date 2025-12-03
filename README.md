@@ -41,6 +41,14 @@ List of podcasts that discuss your digital well-being
 - [Stuff You Should Know](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
 - [Radiolab](https://www.wnycstudios.org/podcasts/radiolab)
 - [Freakonomics Radio](https://freakonomics.com/series/freakonomics-radio/)
+- Art of Manliness x Cal Newport
+  - [Podcast #479: Becoming a Digital Minimalist](https://www.artofmanliness.com/character/advice/digital-minimalism-cal-newport)
+- Optimize Yourself
+  - [How to Become ‘Indistractable’](https://zackarnold.com/nir-eyal-indistractable-podcast-interview/)
+- APA – Speaking of Psychology
+  - [The Dark Side of Screen Time](https://www.apa.org/news/podcasts/speaking-of-psychology/screen-time)
+ 
+- [Reddit Thread: Podcasts about digital well-being](https://www.reddit.com/r/podcasts/comments/1dbvt4g/recommend_me_some_podcasts_about_screen_detox/)
 
 ## [Books](#books) 📚
 
@@ -64,6 +72,12 @@ List of podcasts that discuss your digital well-being
 - [What is Digital Wellness and Why is It Important?](https://digitalwellness.pressbooks.sunycreate.cloud/chapter/what-is-digital-wellness-and-why-is-it-important/)
 - [The latest from the Digital Wellness Lab](https://digitalwellnesslab.org/blog/)
 - [How Technology Can Be Part of a Happy Life](https://greatergood.berkeley.edu/article/item/how_technology_can_be_part_of_a_happy_life)
+- [Digital Minimalism – Ryder Carroll x Cal Newport](https://www.artofmanliness.com/character/advice/digital-minimalism-cal-newport/)
+- [Stoicism and Digital Minimalism](https://dailystoic.com/cal-newport-interview/)
+
+## [Videos](#videos) 📽️
+- [Indistractable: How to Control Your Attention](https://www.youtube.com/watch?v=WtLIJwObk2M)
+- [Tristan Harris: The Dangers of Unregulated AI -- Daily Show](https://www.youtube.com/watch?v=675d_6WGPbo)
 
 ## [Organizations](#orgs)🏢
 
