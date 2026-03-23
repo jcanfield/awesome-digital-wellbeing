@@ -5,9 +5,10 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/awesome-digital-wellbeing/commits/master)
 [![version](https://img.shields.io/static/v1?label=Version&message=2025&color=blue)](https://github.com/jcanfield)
 
-> A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front a screen. Over the last
-couple years, I realized that I needed to take a step back. I can be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
-per day, my mental health was better. I just felt generally better about everything. Here are some tools that can help you move that direction.
+> A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front a screen. Over the  years, I realized that I needed to take a step back. Ti's possible be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
+per day, my mental health was better. I just felt generally better about everything. It's just one piece of the puzzle. 
+
+Here are some tools that can help you move that direction.
 
 *NOTE*: This project is tested with BrowserStack
 
