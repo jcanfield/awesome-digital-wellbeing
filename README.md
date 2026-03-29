@@ -5,7 +5,7 @@
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/jcanfield/awesome-digital-wellbeing?logo=github)](https://github.com/jcanfield/awesome-digital-wellbeing/commits/master)
 [![version](https://img.shields.io/static/v1?label=Version&message=2025&color=blue)](https://github.com/jcanfield)
 
-> A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front a screen. Over the  years, I realized that I needed to take a step back. Ti's possible be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
+> A curated list of tools and apps to help you live offline in a digital world. As a developer, I spend a lot of time with my face in front of a screen. Over the years, I realized that I needed to take a step back. It's possible to be a coder but not have 10 to 12 hours of screen time a day. Once I started getting myself to 6-7 hours
 per day, my mental health was better. I just felt generally better about everything. It's just one piece of the puzzle. 
 
 Here are some tools that can help you move that direction.
@@ -24,17 +24,15 @@ List of podcasts that discuss your digital well-being
   5. [Lina Khan on Fighting Big Tech](https://pca.st/nj76vdxf)
   6. [The Internet's Role in Electing Trump, Democrat In-Fighting & Jon Favreau's Twitter Battles](https://www.youtube.com/watch?v=5TKbYLkLPuo)
   7. [Mark Zuckerberg Announces Meta Will Stop Fact Checking & Content Moderation](https://youtu.be/NjTSRBQeAQQ)
-  8. [What the Supreme Court's TikTok Ban Means for National Security and the First Amendment](https://pca.st/35lupuzr)
-  9. [The Supreme Court's TikTok Ban and the Future of Social Media](https://crooked.com/podcast/the-episode-china-doesnt-want-you-to-hear/)
-  10. [The Loneliness Epidemic and How to Combat It](https://crooked.com/podcast/trumps-tiktok-dilemma-crypto-cons-debunked-and-the-truth-about-the-loneliness-epidemic/)
-  11. [The Impact of Social Media on Mental Health](https://podcastaddict.com/offline-with-jon-favreau/episode/189463860)
-  12. [The 19-Year-Old Helping Gen Z Log Off](https://podcastaddict.com/offline-with-jon-favreau/episode/194698074)
-  13. [Dr. Vivek Murthy on Defeating Doomscrolling with Human Connectionh](https://podcastaddict.com/offline-with-jon-favreau/episode/194698152)
-  14. [Elizabeth Bruenig on Forgiving Trolls and Strangers](https://pca.st/episode/16https://podcastaddict.com/offline-with-jon-favreau/episode/194698153)
-  15. [The End of Big Tech as We Know It](https://podcastaddict.com/offline-with-jon-favreau/episode/194697934)
-  16. [How to Break Your Phone Addiction](https://podcastaddict.com/offline-with-jon-favreau/episode/194697879)
-  17. [Megan Rapinoe on Social Media and Mental Health](https://podcastaddict.com/offline-with-jon-favreau/episode/192831581)
-  18. [AI’s Flirty Upgrade, Facebook’s Zombie Internet, and Why We May Be Doing Mental Health Wrong](https://podcastaddict.com/offline-with-jon-favreau/episode/189504394)
+  8. [The Episode China Doesn’t Want You to Hear](https://crooked.com/podcast/the-episode-china-doesnt-want-you-to-hear/)
+  9. [The Impact of Social Media on Mental Health](https://podcastaddict.com/offline-with-jon-favreau/episode/189463860)
+  10. [The 19-Year-Old Helping Gen Z Log Off](https://podcastaddict.com/offline-with-jon-favreau/episode/194698074)
+  11. [Dr. Vivek Murthy on Defeating Doomscrolling with Human Connection](https://podcastaddict.com/offline-with-jon-favreau/episode/194698152)
+  12. [Elizabeth Bruenig on Forgiving Trolls and Strangers](https://podcastaddict.com/offline-with-jon-favreau/episode/194698153)
+  13. [The End of Big Tech as We Know It](https://podcastaddict.com/offline-with-jon-favreau/episode/194697934)
+  14. [How to Break Your Phone Addiction](https://podcastaddict.com/offline-with-jon-favreau/episode/194697879)
+  15. [Megan Rapinoe on Social Media and Mental Health](https://podcastaddict.com/offline-with-jon-favreau/episode/192831581)
+  16. [AI’s Flirty Upgrade, Facebook’s Zombie Internet, and Why We May Be Doing Mental Health Wrong](https://podcastaddict.com/offline-with-jon-favreau/episode/189504394)
 
 - [Log Off Podcast](https://www.logoffmovement.org/podcast)
 - [The Daily by The New York Times](https://www.nytimes.com/column/the-daily)
@@ -75,6 +73,10 @@ List of podcasts that discuss your digital well-being
 - [How Technology Can Be Part of a Happy Life](https://greatergood.berkeley.edu/article/item/how_technology_can_be_part_of_a_happy_life)
 - [Digital Minimalism – Ryder Carroll x Cal Newport](https://www.artofmanliness.com/character/advice/digital-minimalism-cal-newport/)
 - [Stoicism and Digital Minimalism](https://dailystoic.com/cal-newport-interview/)
+- [New Perspective on Digital Well-Being by Distinguishing Digital Competency From Dependency: Network Approach](https://www.jmir.org/2025/1/e70483)
+- [Digital well-being theory and research](https://journals.sagepub.com/doi/full/10.1177/14614448211056851)
+- [Navigating well-being in the digital era: A scoping review of digital well-being](https://www.sciencedirect.com/science/article/pii/S2666558126000011)
+- [The evolving field of digital mental health: current evidence and implementation issues for smartphone apps, generative artificial intelligence, and virtual reality](https://pmc.ncbi.nlm.nih.gov/articles/PMC12079407/)
 
 ## [Videos](#videos) 📽️
 - [Offline with Jon Favreau](https://www.youtube.com/@OfflinewithJonFavreau)
