@@ -12,6 +12,14 @@ Here are some tools that can help you move that direction.
 
 *NOTE*: This project is tested with BrowserStack
 
+## [Helpful Lists](#lists) 🔖
+
+List of other helpful resources
+
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
+- [Github Search for Digital Wellbeing](https://github.com/topics/digital-wellbeing?l=html)
+- [Mental Health Knowledge Base](https://mentalhealth-kb.net/)
+
 ## [Podcasts](#podcasts) 🎧
 
 List of podcasts that discuss your digital well-being
