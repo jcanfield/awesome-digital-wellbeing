@@ -70,10 +70,25 @@ Other podcasts:
 
 ## [Apps](#apps) 🔥
 
+### Android 🤖
+
 - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) 📱
 - [ActionDash](https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=en_US&gl=US)
 - [Digital Detox](https://play.google.com/store/apps/details?id=com.digitaldetox.app&hl=en_US&gl=US)
 - [Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US&gl=US)
+
+### iOS 🍎
+
+- [Screen Time](https://support.apple.com/en-us/HT208982) — built into iOS; no install needed. Worth trying first before anything paid.
+- [Opal: Screen Time Control](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230) — focus sessions and app blocking, subscription-based.
+- [one sec](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441) — adds a deliberate breathing delay before a distracting app opens, rather than blocking it outright.
+- [Forest](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515) — the iOS build of the Android entry above.
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
+
+### Cross-platform / desktop 💻
+
+- [Cold Turkey Blocker](https://getcoldturkey.com/) — Windows/macOS site and app blocker with a lock mode that can't be undone early.
+- [LeechBlock NG](https://www.proginosko.com/leechblock/) — free, open-source browser extension for Firefox/Chrome time limits.
 
 ## [Articles](#articles) 📝
 
