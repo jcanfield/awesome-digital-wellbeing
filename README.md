@@ -83,7 +83,7 @@ Other podcasts:
 - [Opal: Screen Time Control](https://apps.apple.com/us/app/opal-screen-time-control/id1497465230) — focus sessions and app blocking, subscription-based.
 - [one sec](https://apps.apple.com/us/app/one-sec-screen-time-focus/id1532875441) — adds a deliberate breathing delay before a distracting app opens, rather than blocking it outright.
 - [Forest](https://apps.apple.com/us/app/forest-focus-for-productivity/id866450515) — the iOS build of the Android entry above.
-- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-list) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
+- [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-dw) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
 
 ### Cross-platform / desktop 💻
 
