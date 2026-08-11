@@ -74,6 +74,7 @@ Other podcasts:
 - [ActionDash](https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=en_US&gl=US)
 - [Digital Detox](https://play.google.com/store/apps/details?id=com.digitaldetox.app&hl=en_US&gl=US)
 - [Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US&gl=US)
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - iPhone screen-time blocker for adults with no account, no server, and on-device blocking.
 
 ## [Articles](#articles) 📝
 
