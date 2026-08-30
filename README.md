@@ -74,6 +74,7 @@ Other podcasts:
 - [ActionDash](https://play.google.com/store/apps/details?id=com.actiondash.playstore&hl=en_US&gl=US)
 - [Digital Detox](https://play.google.com/store/apps/details?id=com.digitaldetox.app&hl=en_US&gl=US)
 - [Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US&gl=US)
+- [Latch](https://github.com/saksham10arora-dotcom/latch) 💻
 
 ## [Articles](#articles) 📝
 
