@@ -86,6 +86,7 @@ Other podcasts:
 - [one sec](https://apps.apple.com/app/id1532875441) — adds a deliberate breathing delay before a distracting app opens, rather than blocking it outright.
 - [Forest](https://apps.apple.com/app/id866450515) — the iOS build of the Android entry above.
 - [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-dw) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
+- [Trackables.me](https://apps.apple.com/app/id6739170126) — logs Screen Time automatically (by app, category or website) and charts it as year-long heatmaps next to habits, sleep and steps; free, with a companion Mac app for desktop screen time. *(Disclosure: I'm the developer.)*
 
 ### Cross-platform / desktop 💻
 
