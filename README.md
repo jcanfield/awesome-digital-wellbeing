@@ -86,6 +86,7 @@ Other podcasts:
 - [one sec](https://apps.apple.com/app/id1532875441) — adds a deliberate breathing delay before a distracting app opens, rather than blocking it outright.
 - [Forest](https://apps.apple.com/app/id866450515) — the iOS build of the Android entry above.
 - [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-dw) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
+- [Breakly](https://apps.apple.com/app/id6503225166) — interrupts doomscrolling with short mini breaks and longer breaks while you scroll, instead of locking the whole day; an optional Strict Mode keeps distracting apps locked until a break ends. Subscription-based, with a free trial. *(Disclosure: I'm the developer.)*
 
 ### Cross-platform / desktop 💻
 
