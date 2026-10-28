@@ -78,6 +78,7 @@ Other podcasts:
 - [Forest](https://play.google.com/store/apps/details?id=cc.forestapp&hl=en_US&gl=US)
 - [Latch](https://github.com/saksham10arora-dotcom/latch) 💻
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - iPhone screen-time blocker for adults with no account, no server, and on-device blocking.
+- [Ripple](https://ripplefocus.github.io/en/) - Free Android app blocker with a 15-minute cooldown before rules can be loosened, a friend or parent unlock code, and in-app blocking of only YouTube Shorts, Instagram Reels and WeChat Channels while chats keep working. Uses a monotonic clock so changing the system time does not end a block, and can resist uninstall through on-device wireless debugging without root or a PC. Works for adults blocking themselves and for parents setting up a child's phone. No account, all data stays on the device. *(Disclosure: I'm the developer.)*
 
 ### iOS 🍎
 
