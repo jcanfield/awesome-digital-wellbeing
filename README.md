@@ -91,6 +91,7 @@ Other podcasts:
 
 ### Cross-platform / desktop 💻
 
+- [Awayra](https://awayra.pages.dev/) — free, open-source Windows app with offline eye-rest and movement-break reminders. *(Disclosure: I am the developer.)*
 - [Cold Turkey Blocker](https://getcoldturkey.com/) — Windows/macOS site and app blocker with a lock mode that can't be undone early.
 - [LeechBlock NG](https://www.proginosko.com/leechblock/) — free, open-source browser extension for Firefox/Chrome time limits.
 
