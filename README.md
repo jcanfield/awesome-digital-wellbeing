@@ -26,6 +26,7 @@ List of podcasts that discuss your digtal well-being
 ## [Apps](#apps) 🔥
 
 - [Google Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en_US&gl=US) 📱
+- [Scroll Brake](https://novasynapse.com/products/scroll-brake/) - Mindful app and website blocker for iOS and Chrome that stops doomscrolling with a cognitive pause 📱
 
 ## [Articles](#articles) 📝
 
