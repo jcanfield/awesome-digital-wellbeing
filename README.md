@@ -95,6 +95,7 @@ Other podcasts:
 - [Cold Turkey Blocker](https://getcoldturkey.com/) — Windows/macOS site and app blocker with a lock mode that can't be undone early.
 - [LeechBlock NG](https://www.proginosko.com/leechblock/) — free, open-source browser extension for Firefox/Chrome time limits.
 - [NeckCure](https://neckcure.easyfox.org/) — Windows/macOS webcam posture reminder that dims the screen when you slouch and clears it when you sit up; frames are processed on device and discarded. *(Disclosure: I'm the developer.)*
+- [Onus](https://onus.page/?s=gh-digital-wellbeing) — Chrome/Edge site blocker where time on work sites earns time on sealed ones (25 minutes buys 10), with a 10-minute wait to unseal; free plan. *(Disclosure: I am the developer.)*
 
 ## [Articles](#articles) 📝
 
