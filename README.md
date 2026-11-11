@@ -88,6 +88,7 @@ Other podcasts:
 - [Forest](https://apps.apple.com/app/id866450515) — the iOS build of the Android entry above.
 - [SproutGuard](https://apps.apple.com/app/id6768664921?ct=awesome-dw) — app blocking with streaks, built for adults blocking themselves rather than parents monitoring kids; no account and all data stays on device. *(Disclosure: I'm the developer.)*
 - [minulo](https://apps.apple.com/app/id6809352229) — hides Instagram Reels, YouTube Shorts, TikTok For You and suggested posts across 10 networks while DMs and friends' posts keep working; can send taps on the official app icon to the Reels-free version via Screen Time. Free to hide, optional Pro subscription. *(Disclosure: I'm the developer.)*
+- [Stillfeed](https://stillfeed.pro/) — opens Instagram, YouTube, TikTok, X, Reddit, Snapchat, LinkedIn and Facebook with Reels, Shorts and For You removed. Free, with an optional Pro subscription; closed source. Also a [Chrome extension](https://chromewebstore.google.com/detail/stillfeed-hide-reels-shor/hbdcekalnlndonbliecjfiidffcppmao) and a [Firefox add-on](https://addons.mozilla.org/en-US/firefox/addon/stillfeed/). *(Disclosure: I'm the developer.)*
 
 ### Cross-platform / desktop 💻
 
