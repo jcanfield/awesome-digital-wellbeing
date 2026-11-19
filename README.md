@@ -95,6 +95,7 @@ Other podcasts:
 - [Cold Turkey Blocker](https://getcoldturkey.com/) — Windows/macOS site and app blocker with a lock mode that can't be undone early.
 - [LeechBlock NG](https://www.proginosko.com/leechblock/) — free, open-source browser extension for Firefox/Chrome time limits.
 - [NeckCure](https://neckcure.easyfox.org/) — Windows/macOS webcam posture reminder that dims the screen when you slouch and clears it when you sit up; frames are processed on device and discarded. *(Disclosure: I'm the developer.)*
+- [Redirect](https://heyredirect.com/) — Chrome extension that sends distracting sites to your goals instead of a block page; a break costs a small task first (type a paragraph, write a reason, breathe or wait 60 seconds), and a daily pause limit caps the total. Rules and history stay in the browser, no account. Free for one site, paid plans for more. *(Disclosure: I'm the developer.)*
 
 ## [Articles](#articles) 📝
 
