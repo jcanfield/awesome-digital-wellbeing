@@ -79,6 +79,7 @@ Other podcasts:
 - [Latch](https://github.com/saksham10arora-dotcom/latch) 💻
 - [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921) - iPhone screen-time blocker for adults with no account, no server, and on-device blocking.
 - [Ripple](https://ripplefocus.github.io/en/) - Free Android app blocker with a 15-minute cooldown before rules can be loosened, a friend or parent unlock code, and in-app blocking of only YouTube Shorts, Instagram Reels and WeChat Channels while chats keep working. Uses a monotonic clock so changing the system time does not end a block, and can resist uninstall through on-device wireless debugging without root or a PC. Works for adults blocking themselves and for parents setting up a child's phone. No account, all data stays on the device. *(Disclosure: I'm the developer.)*
+- [B-Simple](https://play.google.com/store/apps/details?id=app.bsimple.android) - Android website blocker built around a wait rather than a lock. You write your reason when you block a site; to lift the block you are shown your own words, wait a period you chose at setup (ten minutes to an hour), then type a short phrase, and the site relocks itself after fifteen minutes. Filters DNS through Android's VpnService, so there is no account, no server and nothing leaves the device. Uninstalling is never obstructed, deliberately. Free; one optional payment adds a curated list, list import and keyword blocking. *(Disclosure: I'm the developer.)*
 
 ### iOS 🍎
 
